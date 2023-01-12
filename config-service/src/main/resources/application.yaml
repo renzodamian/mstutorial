@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          default-label: gateway
+          default-label: cicuit-breaker
           uri: https://github.com/renzodamian/mstutorial
           search-paths: config-data
   application:
